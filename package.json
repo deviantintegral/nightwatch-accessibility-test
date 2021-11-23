@@ -1,0 +1,10 @@
+{
+  "name": "nightwatch-accessibility-test",
+  "license": "MIT",
+  "dependencies": {
+    "chromedriver": "^96.0.0",
+    "geckodriver": "^2.0.4",
+    "nightwatch": "^1.7.12",
+    "nightwatch-accessibility": "^1.11.3"
+  }
+}
